@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    background-color: rgb(100, 100, 200);
+    color: white;
+}
+
+sub {
+    color: aquamarine;
+}
+
+sup {
+    color: rgba(255, 255, 255, 0.74);
+}
+
+#churros{
+    color: blue;
+}
+
+#Ingredientes{
+    color: violet;
+}
+
+#Elaboración{
+    color: green;
+}
+
+body {
+    background-color: rgb(179, 179, 179);
+}
+
+ul{
+    background-color: rgb(110, 78, 110);
+}
